@@ -4,7 +4,7 @@ class Me:
   def __init__(self):
       self.name = "John Minimo"
       self.description = "Student at San Diego State University studying Computer Science"
-      self.languages = ["C++", "Python", "Java", "Swift", "Scala","Javascript"]
+      self.languages = ["C++", "Python", "Java", "Swift", "Scala", "Javascript"]
       self.experience =
         {
           "Amazon" : ("Software Development Engineer Intern (Traffic Engineering - Online Proxy Fleet)", "Summer 2024")
