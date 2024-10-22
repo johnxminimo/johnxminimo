@@ -13,5 +13,5 @@ class Me:
           "NFINIT Datacenters" : ("NOC Technician", "2021 - 2022")
           "NFINIT Datacenters" : ("Technology Intern", "Summer 2021")
         }
-      self.resume_url = "https://github.com/johnxminimo/johnxminimo/blob/main/johnpaulmminimo_swe_newgrad_resume.pdf"
 ```
+## [View my resume!](johnpaulmminimo_swe_newgrad_resume.pdf)
