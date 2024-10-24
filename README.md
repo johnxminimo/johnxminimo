@@ -2,8 +2,8 @@
 ```py
 class Me:
   def __init__(self):
-      self.name = "John Minimo"
-      self.description = "Student at San Diego State University studying Computer Science"
+      self.name = "John Paul Minimo"
+      self.description = "Incoming SDE at Amazon, Senior at San Diego State University studying Computer Science."
       self.languages = ["C++", "Python", "Java", "Swift", "Scala", "Javascript"]
       self.experience =
         {
