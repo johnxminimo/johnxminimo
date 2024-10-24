@@ -7,6 +7,7 @@ class Me:
       self.languages = ["C++", "Python", "Java", "Swift", "Scala", "Javascript"]
       self.experience =
         {
+          "Amazon" : {"Incoming Software Development Engineer", "September 2025"},
           "Amazon" : ("Software Development Engineer Intern (Traffic Engineering - Online Proxy Fleet)", "Summer 2024"),
           "Amazon" : ("Software Development Engineer Intern (Alexa - Bluefront Team)", "Summer 2023"),
           "Amazon Web Services" : ("Software Development Engineer Intern (AWS AI - CodeGuru)", "Fall 2022"),
