@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm John! 👋
 ```py
 class Me:
   def __init__(self):
